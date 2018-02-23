@@ -1,0 +1,59 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    color: #FFFFFF;
+}
+
+#List {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 20fr 20fr;
+    grid-template-rows: 20vh 20vh;
+    text-align: center;
+    background-color: teal;
+}
+
+#container div {
+    text-align: center;
+}
+
+#president1 {
+    background-color: #C62828;
+    grid-column: span 1;
+    font-color: #FFFFFF;
+}
+
+#president3 {
+    grid-column: span 1;
+    background-color: #283593;
+    font-color: #FFFFFF;
+}
+
+#president16 {
+    grid-row: span 1;
+    background-color: #C62828;
+    font-color: #FFFFFF;
+}
+
+#president32 {
+    grid-column: span 1;
+    background-color: #283593;
+    font-color: #FFFFFF;
+}
+
+#president35 {
+    grid-column: span 1;
+    background-color: #C62828;
+    font-color: #FFFFFF;
+}
+
+#president42 {
+    grid-column: span 1;
+    background-color: #283593;
+    font-color: #FFFFFF;
+}
+
+#president44 {
+    grid-column: span 1;
+    background-color: #C62828;
+    font-color: #FFFFFF;
+}
